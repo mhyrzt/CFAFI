@@ -23,8 +23,8 @@ Code you will mention that we have 3 global objects for each question. It’s go
 
 + also if you want to mention name of the course or the name of students it’s necessary to use these words instead:
 
-	* for name of the student --> __NAME__
-	* for title of the course --> __COURSE_NAME__
+	* for name of the student --> `__NAME__`
+	* for title of the course --> `__COURSE_NAME__`
 
 
 + in case if you are web developer or have an idea for this project , I’ll be happy to hear it and add it to project
