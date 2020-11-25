@@ -1,5 +1,5 @@
 # [CFAFI](https://mhyrzt.github.io/CFAFI/)
--------
+
 ## What is this project?
 
 If you are Iranian you may now due to the sanction Iranians cant purchase any of the courses ON coursera & also and also since dollar price is high in iran maybe not all of us can spend that much money because of out financial situation.
@@ -8,7 +8,6 @@ If you are Iranian you may now due to the sanction Iranians cant purchase any of
 coursera provides an opportunity for you to enroll in a course for free via their financial aid. You can acquire a financial aid by writing them a letter (max of 150 words) and tell them why  you can't afford the prices and need financial aid
 
 
--------
 ## How can you help this project?
 
 + if your English is good you can write your own message and add it to project, if you see the 
